@@ -1,0 +1,7 @@
+content_assist_proposals_timeout=5000
+eclipse.preferences.version=1
+org.eclipse.cdt.ui.text.templates.custom=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates><template autoinsert\="true" context\="org.eclipse.cdt.ui.text.templates.c" deleted\="false" description\="default multiline comment" enabled\="true" id\="org.eclipse.cdt.ui.text.templates.c.comment" name\="comment">\r\n/*\r\n * author Xuetao Fan\r\n *\r\n * To change this generated comment edit the template variable "comment"\:\r\n * Window &gt; Preferences &gt; C/C++ &gt; Editor &gt; Templates.\r\n */\r\n</template><template autoinsert\="true" context\="org.eclipse.cdt.ui.text.templates.comment" deleted\="false" description\="author name" enabled\="true" id\="org.eclipse.cdt.ui.text.templates.comment.author" name\="author">author Xuetao Fan</template></templates>
+sourceHoverBackgroundColor=255,255,255
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

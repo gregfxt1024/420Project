@@ -1,0 +1,4 @@
+activeLaunchTarget=org.eclipse.remote.LocalServices\:Local
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:420Project.exe
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:420Project.exe/activeLaunchMode=run
